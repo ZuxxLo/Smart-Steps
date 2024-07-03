@@ -1,4 +1,4 @@
-# Smart Steps (03/05/2023)
+# Smart Steps (03/05/2023) ![Smart Steps Logo]([images/logo.png](https://github.com/ZuxxLo/Smart-Steps/blob/main/smartstepsicon.png?raw=true))
 Smart Steps is a Flutter application developed for a team of kids from Bencherif Smart Academy participating in a competition. This competition addresses the damages of social media apps and seeks solutions, leading to the creation of this app. Smart Steps offers a healthier alternative with supervised content, a reward system for positive actions, and habit reminders.
 
 # Features
@@ -18,3 +18,7 @@ Smart Steps is a Flutter application developed for a team of kids from Bencherif
 # Acknowledgements
 - Special thanks to the kids from Bencherif Smart Academy for their inspiration and participation.
 - Gratitude to all contributors and supporters of this project.
+
+ &nbsp;
+
+![alt text](https://github.com/ZuxxLo/Smart-Steps/blob/main/smartsteps.jpg?raw=true)
